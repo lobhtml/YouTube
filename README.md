@@ -19,12 +19,12 @@ Install Guide for cool-retro-term on Raspberry Pi OS using the command terminal.
 # Step 4: Run Cool Retro Term
 ## After the installation is complete, you can launch Cool Retro Term by typing:
 
-  cool-retro-term
+    cool-retro-term
 
 # Step 5: Create a Desktop Shortcut
 ## If you want to create a desktop shortcut for easier access, you can create a .desktop file. Here's how:
 
-nano ~/.local/share/applications/cool-retro-term.desktop
+    nano ~/.local/share/applications/cool-retro-term.desktop
 
 Add the following content to the file:
 
